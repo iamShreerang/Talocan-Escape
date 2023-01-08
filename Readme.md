@@ -1,6 +1,6 @@
 PROJECT NAME:
 
-Game Development using Kaboom.js
+TALOCAN ESCAPE.
 
 INTRODUCTION: 
 
